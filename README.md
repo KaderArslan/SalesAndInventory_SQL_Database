@@ -36,4 +36,4 @@
 
 ### MSSQL'de Oluşturulan Veritabanı Sonucu Oluşan Database Diagramı:
 ---
-![Database Diagramı](https://github.com/GelecekVarlik-FullStack-Bootcamp/Kader_Arslan_Homework_1/blob/main/DatabaseDiagram.png)
+![Database Diagramı](https://github.com/KaderArslan/SalesAndInventory_SQL_Database/blob/main/DatabaseDiagram.png)
